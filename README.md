@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="left">👋 Welcome on my profie</h1>
 
-<!--
-**StanEM75/StanEM75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">🙋‍♂️ My name is Stanislas.<br>I am 28 years old. I am French 🇲🇫.<br><br>I hold a Master's in Management with a specialization in Data Science from emlyon (ranked 7th by the Financial Times in 2023 📋). <br><br>My technical expertise includes Python, SQL, Power BI, Dataiku, Snowflake, Azure, and AWS, complemented by strong business acumen, which I have developed through working on high-value projects to provide data-driven business recommendations.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Working on : <br>--> 🏎️ Dataviz project (24h of Le Mans)<br>-->  🧑‍🏫 Application translating from French to Vietnamese (Using Azure Translator)<br>--> 📺 Data pipelines related to audience data<br>📚 Currently improving on Microsoft Azure and Amazon Web Services<br>🎯 Goals: Advancing from a Data Analyst position to a Data Analytics Engineer role.<br>🌏 Location : Currently working in 🇻🇳 for a 🇲🇫 media company</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+</div>
+
+###
