@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Working on : <br>-->  🧑‍🏫 Application translating from French to Vietnamese (Using Azure Translator)<br>--> 📺 Data pipelines related to audience data<br>Completed Projects : <br>--> 🎾 Pre-Processing and Machine Learning project (ATP Tennis Games Data) : Python (Pandas, Matplotlib, Sckit-Learn)<br>--> 💎 Luxury Dashboard (Using Power BI) <br>--> 🏎️ Dataviz project (24h of Le Mans) : Python (Pandas, Matplotlib, Seaborn, Plotly) <br>📚 Currently improving on Microsoft Azure and Amazon Web Services<br>🎯 Goals: Advancing from a Data Analyst position to a Data Analytics Engineer role.<br>🌏 Location : Currently working in 🇻🇳 for a 🇲🇫 media company</p>
+<p align="left">✨ Working on : <br>-->  🧑‍🏫 Application translating from French to Vietnamese (Using Azure Translator)<br>Completed Projects : <br>--> 🎾 Pre-Processing and Machine Learning project (ATP Tennis Games Data) : Python (Pandas, Matplotlib, Sckit-Learn)<br>--> 💎 Luxury Dashboard (Using Power BI) <br>--> 🏎️ Dataviz project (24h of Le Mans) : Python (Pandas, Matplotlib, Seaborn, Plotly)<br>--> 📺 Data pipelines related to audience data<br>📚 Currently improving on Microsoft Azure and Amazon Web Services<br>🎯 Goals: Advancing from a Data Analyst position to a Data Analytics Engineer role.<br>🌏 Location : Currently working in 🇻🇳 for a 🇲🇫 media company</p>
 
 ###
 
