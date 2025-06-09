@@ -4,19 +4,19 @@
 
 🛠️ Technical Stack
 
-• **Python**  
+• ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
   - Data wrangling & transformation (pandas, numpy)  
   - API integration (requests, JSON parsing)  
   - Generative AI & Data agents (PandasAI, OpenAI APIs)  
   - Web app prototyping with Streamlit  
   - Data visualization (matplotlib, seaborn, plotly)
 
-• **SQL**  
+• ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)  
   - Complex joins, CTEs, window functions  
   - Query optimization & data modeling  
   - Experience across Snowflake, BigQuery, PostgreSQL
 
-• **Power BI**  
+• ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
   - Microsoft Certified Data Analyst (PL-300)  
   - Executive dashboards (clarity, speed, refresh automation)  
   - Commercial reports (intuitive UX, KPI-focused)  
@@ -25,21 +25,21 @@
   - Row-level security and performance tuning  
   - Use of AI Insights for enrichment & forecasting
 
-• **dbt**  
+• ![dbt](https://img.shields.io/badge/dbt-FB542B?style=flat&logo=dbt&logoColor=white)  
   - Modular SQL, reusable macros, and Jinja templating  
   - Advanced testing, documentation, and model contracts  
   - Use of seeds, snapshots, exposures & custom tags  
   - Versioning and pull request workflows on GitHub  
   - Integration with Snowflake and BigQuery
 
-• **Snowflake**  
+• ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)  
   - Data warehouse optimization & cost-aware queries  
   - Database architecture design & user access management  
   - Secure data sharing & role-based access control  
   - Integration with dbt, Dataiku, and Power BI
 
-• **Dataiku**  
+• ![Dataiku](https://img.shields.io/badge/Dataiku-00B5AA?style=flat&logo=dataiku&logoColor=white)  
   - Workflow orchestration with visual recipes and Python  
   - Scalable data preparation and transformation pipelines
 
-⏳ **Currently upskilling**: Microsoft Azure & Microsoft Fabric
+⏳ Currently upskilling: ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) & Microsoft Fabric
