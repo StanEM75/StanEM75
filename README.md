@@ -42,4 +42,8 @@
   - Workflow orchestration with visual recipes and Python  
   - Scalable data preparation and transformation pipelines
 
+• ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat-square)  
+  - Create a Docker Image
+  - Run a container
+
 ⏳ Currently upskilling: ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) & Microsoft Fabric
