@@ -38,6 +38,10 @@
   - Secure data sharing & role-based access control  
   - Integration with dbt, Dataiku, and Power BI
 
+• ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+  - Instantiate a Spark session
+  - Use the Parquet format
+
 • ![Dataiku](https://img.shields.io/badge/Dataiku-00B5AA?style=flat&logo=dataiku&logoColor=white)  
   - Workflow orchestration with visual recipes and Python  
   - Scalable data preparation and transformation pipelines
