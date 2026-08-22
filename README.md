@@ -1,4 +1,4 @@
-🙋‍♂️ Hi, I’m Stanislas — a 29-year-old French Data Analyst 🇫🇷 with over 4 years of experience transforming complex data into actionable insights for leading companies like Canal+ (France’s pay-TV leader), L'Oréal, and Pernod Ricard.
+🙋‍♂️ Hi, I’m Stanislas — a 30-year-old French Data Analyst 🇫🇷 with over 4 years of experience transforming complex data into actionable insights for leading companies like Sanofi, Canal+ (France’s pay-TV leader), L'Oréal, and Pernod Ricard.
 
 🎓 I hold a Master’s in Management with a Data Science specialization from emlyon business school — ranked #7 in Europe by the Financial Times in 2023 📋.
 
