@@ -29,7 +29,7 @@
   - ![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat) — [Build a local RAG application with LangChain, ChromaDB and Ollama](https://github.com/StanEM75/Tech_Trends/blob/main/src/ask.py)
  
 - **Software Engineering**
-  - ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) — [Automate dbt unit tests](https://github.com/StanEM75/Finance_Monitoring/blob/main/.github/workflows/unit-tests.yml)
+  - ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) — [Continuous Integration](https://github.com/StanEM75/Finance_Monitoring/blob/main/.github/workflows/unit-tests.yml)
 
 - **Machine Learning**
   - ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) — [Train Machine Learning Models](https://github.com/StanEM75/Dataviz_ML-24H_Le_Mans/tree/master/Supervised%20Learning)
