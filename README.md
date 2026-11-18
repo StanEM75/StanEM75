@@ -26,6 +26,13 @@
   - ![AI Tools](https://img.shields.io/badge/AI-Tools-8A2BE2?style=flat) — [Create Tools](https://github.com/StanEM75/War_Monitoring/tree/master/src/tools/analyze_isw_articles)
   - ![AI Agents](https://img.shields.io/badge/AI-Agents-8A2BE2?style=flat) — [Create Agents](https://github.com/StanEM75/War_Monitoring/tree/master/src/agents)
   - ![AI Projects](https://img.shields.io/badge/AI-Projects-8A2BE2?style=flat) — [Organize a Project using AI](https://github.com/StanEM75/War_Monitoring/tree/master)
+  - ![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat) — [Build a local RAG application with LangChain, ChromaDB and Ollama](https://github.com/StanEM75/Tech_Trends/blob/main/src/ask.py)
+ 
+- **Software Engineering**
+  - ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) — [Automate dbt unit tests](https://github.com/StanEM75/Finance_Monitoring/blob/main/.github/workflows/unit-tests.yml)
 
 - **Machine Learning**
   - ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) — [Train Machine Learning Models](https://github.com/StanEM75/Dataviz_ML-24H_Le_Mans/tree/master/Supervised%20Learning)
+
+- **Business Intelligence**
+  - ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) — [Build a dashboard for the luxury industry](https://github.com/StanEM75/Power-BI-Luxury_Industry_Dashboard)
